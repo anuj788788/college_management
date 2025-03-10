@@ -1,0 +1,4 @@
+[14-Feb-2025 08:54:08 Europe/Berlin] PHP Warning:  Undefined array key "role" in C:\xampp\htdocs\college_management\pay.php on line 106
+[14-Feb-2025 08:54:08 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\college_management\pay.php on line 106
+[14-Feb-2025 08:54:11 Europe/Berlin] PHP Warning:  Undefined array key "role" in C:\xampp\htdocs\college_management\pay.php on line 106
+[14-Feb-2025 08:54:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\college_management\pay.php on line 106
